@@ -29,3 +29,18 @@ charles
 #### wallpaper
 ```
 /Users/mindaugas/Pictures/roadtrip.jpg
+```
+
+## Prerequisites
+
+Xcode cli tools
+```
+xcode-select --install
+```
+
+
+make the file executable after download if needed
+```
+chmod +x
+```
+
