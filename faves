@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+echo "Installing your fave casks and background, Mindaugai. Beep Bøp"
+
+
+#homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+
+BREW=(
+cask
+mas
+ffmpeg
+)
+
+
+CASKS=(
+telegram
+tyke
+Itsycal
+Toggl
+google-chrome
+gimp
+brackets
+slack
+charles
+)
+
+#appstore
+MAS=(
+1320666476 #Wipr
+)
+
+
+brew install ${BREW[@]}
+
+brew cask install ${CASKS[@]}
+
+mas install ${MAS[@]}
+
+#wallpaper
+osascript -e 'tell application "Finder" to set desktop picture to POSIX file "/Users/mindaugas/Pictures/roadtrip.jpg"'
+
+echo "Complete. Beep Bøp"
