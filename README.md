@@ -6,25 +6,25 @@ v0.2 includes:
 
 #### brew
 ```
-cask <br/>
-mas <br/>
-ffmpeg <br/>
+cask 
+mas 
+ffmpeg 
 ```
 #### cask
 ```
-telegram <br/>
-tyke <br/>
-Itsycal <br/>
-Toggl <br/>
-google-chrome <br/>
-gimp <br/>
-brackets <br/>
-slack <br/>
-charles <br/>
+telegram 
+tyke 
+Itsycal 
+Toggl 
+google-chrome 
+gimp 
+brackets 
+slack 
+charles 
 ```
 #### mas
 ```
-1320666476 #Wipr <br/>
+1320666476 #Wipr 
 ```
 #### wallpaper
 ```
