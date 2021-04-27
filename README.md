@@ -8,19 +8,23 @@ v0.2 includes:
 ```
 cask 
 mas 
-ffmpeg 
+ffmpeg
+bandcamp-dl
+youtube-dlc
 ```
 #### cask
 ```
-telegram 
-tyke 
-Itsycal 
-Toggl 
-google-chrome 
-gimp 
-brackets 
+telegram
+tyke
+itsycal
+toggl-track
+google-chrome
+microsoft-teams
+vlc
 slack 
-charles 
+fontforge
+visual-studio-code
+openoffice
 ```
 #### mas
 ```
