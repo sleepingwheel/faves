@@ -10,19 +10,23 @@ BREW=(
 cask
 mas
 ffmpeg
+bandcamp-dl
+youtube-dlc
 )
 
 
 CASKS=(
 telegram
 tyke
-Itsycal
-Toggl
-gimp
-brackets
-slack
-charles
+itsycal
+toggl-track
+vlc
+slack 
+fontforge
+visual-studio-code
+openoffice
 google-chrome
+microsoft-teams
 )
 
 #appstore
