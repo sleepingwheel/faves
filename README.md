@@ -10,7 +10,7 @@ cask
 mas 
 ffmpeg
 bandcamp-dl
-youtube-dlc
+yt-dlp/taps/yt-dlp
 ```
 #### cask
 ```
@@ -22,6 +22,7 @@ google-chrome
 microsoft-teams
 vlc
 slack 
+obs
 fontforge
 visual-studio-code
 openoffice
