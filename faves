@@ -11,7 +11,8 @@ cask
 mas
 ffmpeg
 bandcamp-dl
-youtube-dlc
+exiftool
+yt-dlp/taps/yt-dlp
 )
 
 
@@ -21,6 +22,7 @@ tyke
 itsycal
 toggl-track
 vlc
+obs
 slack 
 fontforge
 visual-studio-code
