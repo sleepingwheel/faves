@@ -26,6 +26,8 @@ obs
 fontforge
 visual-studio-code
 openoffice
+alt-tab
+rectangle
 ```
 #### mas
 ```
